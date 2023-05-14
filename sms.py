@@ -52,5 +52,4 @@ input(f"""
 {rd}└════════════════════════════┘
 
 """)
-
 os.system("python sms.py")
